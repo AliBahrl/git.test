@@ -1,10 +1,16 @@
 *{
-    
-    color: antiquewhite;
-    background-color: black;
+    background-color: rgb(78, 133, 155);
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    
+}
+h1{
+    color: blue;
+}
+p{
+    color: rgb(5, 5, 104);
+}
+.class{
+    color: blueviolet;
 }
